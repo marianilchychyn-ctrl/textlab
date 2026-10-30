@@ -19,7 +19,7 @@ def tokenize(text: str) -> list[str]:
 
 
 def analyze_text(text: str, top: int = 10) -> dict:
-    """Count words and select the most frequent ones.
+    """Count word occurrences and return the most frequent words.
 
     Ties are sorted alphabetically for deterministic output. An empty text
     has zero words. Common words are included; no stop-word list is applied.

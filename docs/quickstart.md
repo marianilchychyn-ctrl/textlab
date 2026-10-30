@@ -2,6 +2,7 @@
 
 Use Python 3.11 or newer. The analyzer needs no third-party packages.
 Run commands from the repository root.
+Run the commands from the project root directory.
 
 ```bash
 python analyze.py documents/flask.md --output results/flask.json

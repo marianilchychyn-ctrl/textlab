@@ -9,8 +9,8 @@ reproducible execution.
 :caption: Start here
 
 quickstart
-method
 examples
+method
 api
 sources
 ```
